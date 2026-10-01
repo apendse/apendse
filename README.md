@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apendse
-- 👀 I’m interested in Android, Flutter and iOS
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on NDK, BLE, vision
+- 👀 I’m interested in Android Jetpack Compose, AI driven coding, Python
+- 🌱 I’m currently learning ReactNative
+- 💞️ I’m looking to collaborate on NDK, BLE, vision, Jetpack Compose custom components
 - 📫 How to reach me apendse@gmail.com
 
 <!---
